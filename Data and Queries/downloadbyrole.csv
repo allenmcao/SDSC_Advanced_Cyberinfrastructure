@@ -1,0 +1,52 @@
+name,description,count
+Network Member,Accesses TEAM tools,10331
+Sampling Scheduler,Creates sampling schedules,9254
+Data Reviewer,Comments or adds notes to data,9177
+Data Uploader,Uploads and saves new data,7381
+Spatial Data Expert,Uploads Shapefiles for designing the spatial locations of sampling units; Uploads GPX files for the GPS locations of sampling units,7376
+authenticated user,User is logged into Drupal,4739
+Data Editor,Edits saved data,4252
+Data Collector,Collects and uploads new data,2817
+Technical Liaison,Accesses most TEAM tools for specific sites,1971
+Coordinating Unit,TEAM CI staff,1281
+Data Registration,Accesses legacy metacat application linked from myTEAM,1138
+Taxonomic App Expert,Expert editor for the taxonomic web application,1081
+Taxonomic App Admin,Administrator for the taxonomic web application,1033
+Upload Data - Brazil,Uploads data to Brazil - legacy role,933
+View Dashboard,Accesses dashboard,903
+Taxonomic Expert,Clean up protocol data using the data management tool,863
+Upload Data - D.C.,Uploads data to D.C. - legacy role,859
+wpi_registered_user,Wildlife Picture Index (WPI) Registered User,814
+Data Management Admin,,811
+Notify Report Published,Gets email when Drupal report made public (e.g. CI quarterly report),719
+Data Download Stats,Sees more columns in Gridsphere data download stats,712
+Sampling Schedule Admin,Admins sampling scheduler,712
+Web Master,Controls Drupal site,688
+Approves Comments,Approves comments on Drupal pages,676
+wpi_sme_user,Wildlife Picture Index (WPI) Subject Matter Expert (SME) User,669
+wpi_admin_user,Wildlife Picture Index (WPI) Admin User,668
+Download Endangered Species,Registered users who are approved to download endangered species data,638
+Page Editors,Edit Drupal page content,581
+Approves Institutions,Approves new institutions for institutions_team table used in site config and user profiles,542
+Approves Publications,Approves new publications for TEAM Drupal bibliography,542
+Approves News and Events,Approves new news and events content for Drupal,542
+Site Manager,Maintains site information and accesses site tools and SMT,511
+Approves Reports (CI),Approves new Drupal CI reports,491
+Technical Director,Supervises use of TEAM tools and accesses most tools for all sites,489
+Approves Endangered Species Access,Approves requests for data about endangered species,489
+IT Specialist,To display IT Specialists in Network Member listings,485
+Data Reviewer Admin,Admins DQA data,464
+Notify Endangered Species Access,Gets email when there are new requests for endangered species access,364
+Notify Report Created,Gets email when new Drupal report created (e.g. CI quarterly reports),363
+Approves Sampling Schedule,Approves proposed sampling schedules,353
+Approves Reports (WCS),Approves new Drupal WCS reports,337
+Network Spatial Expert,Defines spatial data for DQA,329
+Approves Reports (CTFS),Approves new Drupal CTFS reports,326
+Hide in Directory,Users with special permissions (like siteadmin) that we want to hide in Drupal network member listing,319
+Regional Manager,For email notifications, less permissive than Technical Liaison,312
+Approves Reports for Publication,Approves all reports for Drupal publication,312
+Technical Coordinator,Facilitates use of TEAM tools and accesses most tools for all sites,312
+Approves Reports (MBG),Approves new Drupal MBG reports,312
+Institutional Representative,Represents TEAM partner at a higher level than Site Manager and has the same site access as a Site Manager,49
+Steering Committee,To display Steering Committee members in Network Member listings,41
+Science Advisory Board,To display Science Advisory Board members in Network Member listings,41

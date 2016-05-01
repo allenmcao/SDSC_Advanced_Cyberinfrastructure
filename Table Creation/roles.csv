@@ -1,0 +1,54 @@
+1,anonymous user,User is not logged into Drupal
+2,Approves Comments,Approves comments on Drupal pages
+3,Approves Institutions,Approves new institutions for institutions_team table used in site config and user profiles
+4,Approves News and Events,Approves new news and events content for Drupal
+6,Approves Reports (CI),Approves new Drupal CI reports
+7,Approves Reports (CTFS),Approves new Drupal CTFS reports
+8,Approves Reports (MBG),Approves new Drupal MBG reports
+9,Approves Reports (WCS),Approves new Drupal WCS reports
+10,Approves Reports for Publication,Approves all reports for Drupal publication
+12,authenticated user,User is logged into Drupal
+16,Data Management Admin,
+14,Data Download Stats,Sees more columns in Gridsphere data download stats
+17,Data Registration,Accesses legacy metacat application linked from myTEAM
+19,Data Reviewer Admin,Admins DQA data
+21,Hide in Directory,Users with special permissions (like siteadmin) that we want to hide in Drupal network member listing
+22,Network Member,Accesses TEAM tools
+24,Network Spatial Expert,Defines spatial data for DQA
+25,Notify Report Created,Gets email when new Drupal report created (e.g. CI quarterly reports)
+26,Notify Report Published,Gets email when Drupal report made public (e.g. CI quarterly report)
+27,Page Editors,Edit Drupal page content
+28,Sampling Schedule Admin,Admins sampling scheduler
+29,Sampling Scheduler,Creates sampling schedules
+30,Site Manager,Maintains site information and accesses site tools and SMT
+32,Technical Coordinator,Facilitates use of TEAM tools and accesses most tools for all sites
+33,Technical Director,Supervises use of TEAM tools and accesses most tools for all sites
+34,Technical Liaison,Accesses most TEAM tools for specific sites
+35,Upload Data - Brazil,Uploads data to Brazil - legacy role
+36,Upload Data - D.C.,Uploads data to D.C. - legacy role
+37,View Dashboard,Accesses dashboard
+38,Web Master,Controls Drupal site
+18,Data Reviewer,Comments or adds notes to data
+39,Regional Manager,"For email notifications, less permissive than Technical Liaison"
+15,Data Editor,Edits saved data
+31,Spatial Data Expert,Uploads Shapefiles for designing the spatial locations of sampling units; Uploads GPX files for the GPS locations of sampling units
+20,Data Uploader,Uploads and saves new data
+13,Data Collector,Collects and uploads new data
+40,Taxonomic Expert,Clean up protocol data using the data management tool
+41,Download Endangered Species,Registered users who are approved to download endangered species data
+42,Approves Endangered Species Access,Approves requests for data about endangered species
+43,ESM Site Manager,Maintains site information and accesses site tools and SMT for Ecosystem Services Monitoring (ESM) sites
+44,Notify Endangered Species Access,Gets email when there are new requests for endangered species access
+23,Coordinating Unit,TEAM CI staff
+45,Administrative Liaison,To display Administrative Liaisons in Network Member listings
+46,Institutional Representative,Represents TEAM partner at a higher level than Site Manager and has the same site access as a Site Manager
+47,IT Specialist,To display IT Specialists in Network Member listings
+48,Steering Committee,To display Steering Committee members in Network Member listings
+49,Science Advisory Board,To display Science Advisory Board members in Network Member listings
+11,Approves Sampling Schedule,Approves proposed sampling schedules
+5,Approves Publications,Approves new publications for TEAM Drupal bibliography
+51,wpi_admin_user,Wildlife Picture Index (WPI) Admin User
+52,wpi_registered_user,Wildlife Picture Index (WPI) Registered User
+50,wpi_sme_user,Wildlife Picture Index (WPI) Subject Matter Expert (SME) User
+53,Taxonomic App Expert,Expert editor for the taxonomic web application
+54,Taxonomic App Admin,Administrator for the taxonomic web application

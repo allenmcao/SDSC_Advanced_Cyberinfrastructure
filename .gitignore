@@ -1,0 +1,12 @@
+Camera Trap/
+dvdrental/
+
+
+*.jpg
+*.docx
+
+#Programs
+*.exe
+*.msi
+eclipse*
+Paint*

@@ -1,0 +1,54 @@
+name,description,count
+ESM Site Manager,Maintains site information and accesses site tools and SMT for Ecosystem Services Monitoring (ESM) sites,1
+Notify Endangered Species Access,Gets email when there are new requests for endangered species access,1
+Technical Coordinator,Facilitates use of TEAM tools and accesses most tools for all sites,1
+Regional Manager,For email notifications, less permissive than Technical Liaison,2
+Approves Reports (MBG),Approves new Drupal MBG reports,2
+Approves Endangered Species Access,Approves requests for data about endangered species,2
+Approves Reports for Publication,Approves all reports for Drupal publication,2
+Technical Director,Supervises use of TEAM tools and accesses most tools for all sites,2
+Approves Comments,Approves comments on Drupal pages,2
+Notify Report Created,Gets email when new Drupal report created (e.g. CI quarterly reports),2
+Approves Reports (CTFS),Approves new Drupal CTFS reports,2
+Network Spatial Expert,Defines spatial data for DQA,2
+Approves Institutions,Approves new institutions for institutions_team table used in site config and user profiles,3
+Approves Sampling Schedule,Approves proposed sampling schedules,3
+Approves Reports (CI),Approves new Drupal CI reports,3
+Approves Reports (WCS),Approves new Drupal WCS reports,3
+Approves Publications,Approves new publications for TEAM Drupal bibliography,3
+Approves News and Events,Approves new news and events content for Drupal,3
+Web Master,Controls Drupal site,4
+Steering Committee,To display Steering Committee members in Network Member listings,4
+Administrative Liaison,To display Administrative Liaisons in Network Member listings,4
+Page Editors,Edit Drupal page content,4
+Data Reviewer Admin,Admins DQA data,4
+wpi_sme_user,Wildlife Picture Index (WPI) Subject Matter Expert (SME) User,4
+wpi_admin_user,Wildlife Picture Index (WPI) Admin User,4
+View Dashboard,Accesses dashboard,5
+IT Specialist,To display IT Specialists in Network Member listings,5
+Notify Report Published,Gets email when Drupal report made public (e.g. CI quarterly report),5
+wpi_registered_user,Wildlife Picture Index (WPI) Registered User,5
+Data Management Admin,,5
+Taxonomic App Admin,Administrator for the taxonomic web application,5
+Data Download Stats,Sees more columns in Gridsphere data download stats,5
+Sampling Schedule Admin,Admins sampling scheduler,5
+Institutional Representative,Represents TEAM partner at a higher level than Site Manager and has the same site access as a Site Manager,5
+Data Registration,Accesses legacy metacat application linked from myTEAM,8
+Taxonomic App Expert,Expert editor for the taxonomic web application,8
+Science Advisory Board,To display Science Advisory Board members in Network Member listings,9
+Download Endangered Species,Registered users who are approved to download endangered species data,9
+Upload Data - D.C.,Uploads data to D.C. - legacy role,9
+Coordinating Unit,TEAM CI staff,10
+Technical Liaison,Accesses most TEAM tools for specific sites,13
+Upload Data - Brazil,Uploads data to Brazil - legacy role,15
+Hide in Directory,Users with special permissions (like siteadmin) that we want to hide in Drupal network member listing,20
+Site Manager,Maintains site information and accesses site tools and SMT,30
+Taxonomic Expert,Clean up protocol data using the data management tool,49
+Data Editor,Edits saved data,56
+Data Reviewer,Comments or adds notes to data,56
+Sampling Scheduler,Creates sampling schedules,70
+Spatial Data Expert,Uploads Shapefiles for designing the spatial locations of sampling units; Uploads GPX files for the GPS locations of sampling units,78
+Data Uploader,Uploads and saves new data,79
+Data Collector,Collects and uploads new data,158
+Network Member,Accesses TEAM tools,336
+authenticated user,User is logged into Drupal,1216

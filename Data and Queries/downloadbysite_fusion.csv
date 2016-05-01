@@ -1,0 +1,71 @@
+site,protocol,latitude,longitude,Climate
+Barro Colorado Nature Monument - Soberania National Park,Climate,9.152102,-79.8465,17
+Bukit Barisan,Climate,-5.25,104.1667,49
+Bwindi Impenetrable Forest,Climate,-1.08056,29.66139,43
+Caxiuanã,Climate,-1.72917,-51.4736,130
+Central Suriname Nature Reserve,Climate,4.73752,-56.1878,40
+Cocha Cashu - Manu National Park,Climate,-11.8564,-71.7214,22
+Korup National Park,Climate,5.07389,8.85472,19
+Manaus,Climate,-2.92906,-59.9764,85
+Nam Kading,Climate,18.31667,104,36
+Nouabalé Ndoki,Climate,2.518805,16.59508,30
+Pasoh Forest Reserve,Climate,2.982,102.313,22
+Ranomafana,Climate,-21.1333,47.4167,42
+Udzungwa,Climate,-7.8425,36.89148,64
+Volcán Barva,Climate,10.3028,-84.0338,185
+Yanachaga Chimillén National Park,Climate,-10.4935,-75.2012,25
+Yasuni,Climate,-0.67131,-76.4005,14
+,,,,
+site,protocol,latitude,longitude,Terrestrial Vertebrate
+Barro Colorado Nature Monument - Soberania National Park,Terrestrial Vertebrate,9.152102,-79.8465,124
+Bukit Barisan,Terrestrial Vertebrate,-5.25,104.1667,181
+Bwindi Impenetrable Forest,Terrestrial Vertebrate,-1.08056,29.66139,118
+Caxiuanã,Terrestrial Vertebrate,-1.72917,-51.4736,205
+Central Suriname Nature Reserve,Terrestrial Vertebrate,4.73752,-56.1878,128
+Cocha Cashu - Manu National Park,Terrestrial Vertebrate,-11.8564,-71.7214,118
+Korup National Park,Terrestrial Vertebrate,5.07389,8.85472,83
+Manaus,Terrestrial Vertebrate,-2.92906,-59.9764,169
+Nam Kading,Terrestrial Vertebrate,18.31667,104,117
+Nouabalé Ndoki,Terrestrial Vertebrate,2.518805,16.59508,112
+Pasoh Forest Reserve,Terrestrial Vertebrate,2.982,102.313,56
+Ranomafana,Terrestrial Vertebrate,-21.1333,47.4167,87
+Udzungwa,Terrestrial Vertebrate,-7.8425,36.89148,192
+Volcán Barva,Terrestrial Vertebrate,10.3028,-84.0338,336
+Yanachaga Chimillén National Park,Terrestrial Vertebrate,-10.4935,-75.2012,87
+Yasuni,Terrestrial Vertebrate,-0.67131,-76.4005,124
+,,,,
+site,protocol,latitude,longitude,Vegetation
+Barro Colorado Nature Monument - Soberania National Park,Vegetation,9.152102,-79.8465,55
+Bukit Barisan,Vegetation,-5.25,104.1667,101
+Bwindi Impenetrable Forest,Vegetation,-1.08056,29.66139,89
+Caxiuanã,Vegetation,-1.72917,-51.4736,313
+Central Suriname Nature Reserve,Vegetation,4.73752,-56.1878,90
+Cocha Cashu - Manu National Park,Vegetation,-11.8564,-71.7214,57
+Korup National Park,Vegetation,5.07389,8.85472,73
+Manaus,Vegetation,-2.92906,-59.9764,292
+Nam Kading,Vegetation,18.31667,104,91
+Nouabalé Ndoki,Vegetation,2.518805,16.59508,88
+Pasoh Forest Reserve,Vegetation,2.982,102.313,57
+Ranomafana,Vegetation,-21.1333,47.4167,98
+Udzungwa,Vegetation,-7.8425,36.89148,105
+Volcán Barva,Vegetation,10.3028,-84.0338,348
+Yanachaga Chimillén National Park,Vegetation,-10.4935,-75.2012,61
+Yasuni,Vegetation,-0.67131,-76.4005,42
+,,,,
+site,protocol,latitude,longitude,downloads
+Barro Colorado Nature Monument - Soberania National Park,GIS,9.152102,-79.8465,21
+Bukit Barisan,GIS,-5.25,104.1667,14
+Bwindi Impenetrable Forest,GIS,-1.08056,29.66139,13
+Caxiuanã,GIS,-1.72917,-51.4736,10
+Central Suriname Nature Reserve,GIS,4.73752,-56.1878,12
+Cocha Cashu - Manu National Park,GIS,-11.8564,-71.7214,10
+Korup National Park,GIS,5.07389,8.85472,8
+Manaus,GIS,-2.92906,-59.9764,10
+Nam Kading,GIS,18.31667,104,11
+Nouabalé Ndoki,GIS,2.518805,16.59508,10
+Pasoh Forest Reserve,GIS,2.982,102.313,15
+Ranomafana,GIS,-21.1333,47.4167,11
+Udzungwa,GIS,-7.8425,36.89148,9
+Volcán Barva,GIS,10.3028,-84.0338,12
+Yanachaga Chimillén National Park,GIS,-10.4935,-75.2012,12
+Yasuni,GIS,-0.67131,-76.4005,14
